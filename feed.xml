@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2023-02-10T14:23:18+01:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Coursmaterial</title><subtitle>Support de cours pour le livre Schwätzt Dir Lëtzebuergesch? A1.</subtitle><entry><title type="html">Kapitel 6</title><link href="http://0.0.0.0:4000/chapitre/kapitel-6" rel="alternate" type="text/html" title="Kapitel 6" /><published>2023-01-09T15:25:00+01:00</published><updated>2023-01-09T15:25:00+01:00</updated><id>http://0.0.0.0:4000/chapitre/kapitel-6</id><content type="html" xml:base="http://0.0.0.0:4000/chapitre/kapitel-6"><![CDATA[<div class="row g-4 mt-2 mb-1">
+    <div class="col-md-6">
+	<div class="card bg-c2">
+		<h5 class="card-header">Possessivartikel <i class="bi bi-exclamation-triangle text-danger fs-4"></i></h5>
+        <table id="table-p-article" class="table text-main">
+            <thead>
+                <tr>
+                    <th scope="col"></th>
+                    <th scope="col"><i class="bi bi-gender-male text-m"></i></th>
+                    <th scope="col"><i class="bi bi-gender-female text-f"></i><i class="bi bi-people"></i></th>
+                    <th scope="col"><i class="bi bi-record text-n"></i></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">ech</th>
+                    <td>mäin</td>
+                    <td>meng</td>
+                    <td>mäin</td>
+                </tr>
+                <tr>
+                    <th scope="row">du</th>
+                    <td>däin</td>
+                    <td>deng</td>
+                    <td>däin</td>
+                </tr>
+                <tr>
+                    <th scope="row">hien/hatt</th>
+                    <td>säin</td>
+                    <td>seng</td>
+                    <td>säin</td>
+                </tr>
+                <tr>
+                    <th scope="row">si</th>
+                    <td>hiren</td>
+                    <td>hir</td>
+                    <td>hiert</td>
+                </tr>
+                <tr>
+                    <th scope="row">mir</th>
+                    <td>eisen</td>
+                    <td>eis</td>
+                    <td>eist</td>
+                </tr>
+                <tr>
+                    <th scope="row">dir/Dir</th>
+                    <td>ären/Ären</td>
+                    <td>är/Är</td>
+                    <td>äert/Äert</td>
+                </tr>
+                <tr>
+                    <th scope="row">si</th>
+                    <td>hiren</td>
+                    <td>hir</td>
+                    <td>hiert</td>
+                </tr>
+            </tbody>
+        </table>
+	</div>
+</div>
+    <div class="col-md-6">
+	<div class="card bg-c2 text-main">
+		<h5 class="card-header">Familljememberen</h5>
+		<ul class="nav nav-tabs" id="myTab" role="tablist">
+			<li class="nav-item" role="presentation">
+				<button class="nav-link active" id="male-tab" data-bs-toggle="tab" data-bs-target="#male-tab-pane"
+					type="button" role="tab" aria-controls="male-tab-pane" aria-selected="true"><span
+						class="d-none d-lg-inline">männlech </span><i class="bi bi-gender-male text-m"></i></button>
+			</li>
+			<li class="nav-item" role="presentation">
+				<button class="nav-link" id="female-tab" data-bs-toggle="tab" data-bs-target="#female-tab-pane"
+					type="button" role="tab" aria-controls="female-tab-pane" aria-selected="false"><span
+					class="d-none d-lg-inline">weiblech </span><i class="bi bi-gender-female text-f"></i></button>
+			</li>
+			<li class="nav-item" role="presentation">
+				<button class="nav-link" id="neutral-tab" data-bs-toggle="tab" data-bs-target="#neutral-tab-pane"
+					type="button" role="tab" aria-controls="neutral-tab-pane" aria-selected="false"><span
+					class="d-none d-lg-inline">sächlech </span><i class="bi bi-record text-n"></i></button>
+			</li>
+			<li class="nav-item" role="presentation">
+				<button class="nav-link" id="plural-tab" data-bs-toggle="tab" data-bs-target="#plural-tab-pane"
+					type="button" role="tab" aria-controls="plural-tab-pane" aria-selected="false"><span
+					class="d-none d-lg-inline">Plural </span><i class="bi bi-people"></i></button>
+			</li>
+		</ul>
+		<div class="tab-content" id="myTabContent">
+			<div class="tab-pane fade show active" id="male-tab-pane" role="tabpanel" aria-labelledby="male-tab" tabindex="0">
+				<ul class="list-group list-group-flush">
+					
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Papp, Pappen</div>
+							<div class="col">papa(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Mann, Männer</div>
+							<div class="col">mari(s), époux</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Brudder, Bridder</div>
+							<div class="col">frère(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Monni, Monnien</div>
+							<div class="col">oncle(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Grousspapp, Grousspappen / Bopa, Bopaen / Bopi, Bopien</div>
+							<div class="col">grand-père(s), papi(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Bouf, Bouwen / Jong, Jongen</div>
+							<div class="col">fils</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Enkel, Enkelen</div>
+							<div class="col">petit(s)-fils</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Schwoer, Schwoeren</div>
+							<div class="col">beau(x)-frère(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Eedem, Eedemen</div>
+							<div class="col">beau(x)-fils, gendre(s)</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="tab-pane fade" id="female-tab-pane" role="tabpanel" aria-labelledby="female-tab" tabindex="0">
+				<ul class="list-group list-group-flush">
+					
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Mamm, Mammen</div>
+							<div class="col">maman(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Fra, Fraen</div>
+							<div class="col">femme(s), épouse(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Schwester, Schwësteren</div>
+							<div class="col">sœur(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Tatta, Tattaen</div>
+							<div class="col">tante(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Groussmamm, Groussmammen / Boma, Bomaen / Bomi, Bomien</div>
+							<div class="col">grand-mère(s), mamie(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Duechter, Diechter / Duechteren</div>
+							<div class="col">fille(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Enkelin, Enkelinnen</div>
+							<div class="col">petite(s)-fille(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Schwéiesch, Schwéieschen</div>
+							<div class="col">belle(s)-sœur(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Schnauer, Schnaueren</div>
+							<div class="col">belle(s)-fille(s)</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="tab-pane fade" id="neutral-tab-pane" role="tabpanel" aria-labelledby="neutral-tab" tabindex="0">
+				<ul class="list-group list-group-flush">
+					
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Kand, Kanner</div>
+							<div class="col">enfant(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Meedchen, Meedercher</div>
+							<div class="col">fille(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Enkelkand, Enkelkanner</div>
+							<div class="col">petit(s)-fils, petite(s)-fille(s), petit(s)-enfant(s)</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="tab-pane fade" id="plural-tab-pane" role="tabpanel" aria-labelledby="plural-tab" tabindex="0">
+				<ul class="list-group list-group-flush">
+					
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Elteren</div>
+							<div class="col">parents</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Geschwester</div>
+							<div class="col">frères et sœurs</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Schwéierelteren</div>
+							<div class="col">beaux-parents</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Iwwert seng Famill a seng Frënn schwätzen. Eng Persoun beschreiwen. E Gespréich beim Dokter féieren.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter6.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter6.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kapitel 5</title><link href="http://0.0.0.0:4000/chapitre/kapitel-5" rel="alternate" type="text/html" title="Kapitel 5" /><published>2022-12-10T14:00:00+01:00</published><updated>2022-12-10T14:00:00+01:00</updated><id>http://0.0.0.0:4000/chapitre/kapitel-5</id><content type="html" xml:base="http://0.0.0.0:4000/chapitre/kapitel-5"><![CDATA[<div class="row g-4 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
+    
+<div class="col-md-6">
+	<div class="card bg-c2 text-main">
+  		<h5 class="card-header">Uebst</h5>
+		<ul class="list-group list-group-flush">
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-2 fs-4">&#127819;</div>
+				<div class="col fw-semibold">eng Zitroun, Zitrounen</div>
+				<div class="col">citron(s)</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-2 fs-4">&#129373;</div>
+				<div class="col fw-semibold">en/eng Kiwi, Kiwien</div>
+				<div class="col">kiwi(s)</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-2 fs-4">&#127824;</div>
+				<div class="col fw-semibold">eng Bier, Bieren</div>
+				<div class="col">poire(s)</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-2 fs-4">&#127822;</div>
+				<div class="col fw-semibold">en Apel, Äppel</div>
+				<div class="col">pomme(s)</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-2 fs-4">&#127820;</div>
+				<div class="col fw-semibold">eng Banann, Banannen</div>
+				<div class="col">banane(s)</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-2 fs-4">&#127827;</div>
+				<div class="col fw-semibold">en Äerdbier, Äerdbieren</div>
+				<div class="col">fraise(s)</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-2 fs-4">&#127825;</div>
+				<div class="col fw-semibold">eng Piisch, Pijen</div>
+				<div class="col">pêche(s)</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-2 fs-4">&#127821;</div>
+				<div class="col fw-semibold">en/eng Ananas, Ananassen</div>
+				<div class="col">ananas</div>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="col-md-6">
+	<div class="card bg-c2 text-main">
+  		<h5 class="card-header">Geméis</h5>
+		<ul class="list-group list-group-flush">
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-2 fs-4">&#129365;</div>
+				<div class="col fw-semibold">eng Muert, Muerten</div>
+				<div class="col">carotte(s)</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-2 fs-4">&#129364;</div>
+				<div class="col fw-semibold">eng Gromper, Gromperen</div>
+				<div class="col">pomme(s) de terre</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-2 fs-4">&#127813;</div>
+				<div class="col fw-semibold">eng Tomat, Tomaten</div>
+				<div class="col">tomate(s)</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-2 fs-4">&#129382;</div>
+				<div class="col fw-semibold">e Brokkoli</div>
+				<div class="col">brocoli</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-2 fs-4">&#127814;</div>
+				<div class="col fw-semibold">eng Aubergine, Auberginnen</div>
+				<div class="col">aubergine(s)</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-2 fs-4">&#129477;</div>
+				<div class="col fw-semibold">eng Ënn, Ënnen<br>eng Zwiwwel, Zwiwwelen</div>
+				<div class="col">oignon(s)</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-2 fs-4">&#129476;</div>
+				<div class="col fw-semibold">Knuewelek</div>
+				<div class="col">ail</div>
+			</li>
+		</ul>
+	</div>
+</div>
+</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Iessen a Gedrénks nennen a beschreiwen. Soen, wat ee gär order net gär ësst an drénkt. En Akafsgespréich féieren.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter5.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter5.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kapitel 4</title><link href="http://0.0.0.0:4000/chapitre/kapitel-4" rel="alternate" type="text/html" title="Kapitel 4" /><published>2022-11-16T19:00:20+01:00</published><updated>2022-11-16T19:00:20+01:00</updated><id>http://0.0.0.0:4000/chapitre/kapitel-4</id><content type="html" xml:base="http://0.0.0.0:4000/chapitre/kapitel-4"><![CDATA[<div class="row g-4 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
+    <div class="col-md-6">
+	<div class="card bg-c2 text-main">
+		<h5 class="card-header">Wat sinn Är Hobbyen? <i class="bi bi-exclamation-triangle text-danger fs-4"></i></h5>
+	  	<ul class="list-group list-group-flush">
+		  	<li class="list-group-item">Ech <strong>kachen <em>(net)</em> gär</strong></li>
+		  	<li class="list-group-item">Ech <strong>ginn <em>(net)</em> gär</strong> spadséieren.</li>
+		  	<li class="list-group-item">Ech <strong>ginn <em>(net)</em> gär</strong> an de Kino.</li>
+		  	<li class="list-group-item">Ech <strong>ginn <em>(net)</em> gär</strong> schwammen.</li>
+		  	<li class="list-group-item">Ech <strong>lauschteren <em>(net)</em> gär</strong> Musek.</li>
+		  	<li class="list-group-item">Ech <strong>maachen <em>(net)</em> gär</strong> Sport.</li>
+		  	<li class="list-group-item">Ech <strong>maachen <em>(net)</em> gär</strong> Thaiboxen.</li>
+		  	<li class="list-group-item">Ech <strong>maachen <em>(net)</em> gär</strong> Puzzle.</li>
+		  	<li class="list-group-item">Ech <strong>spillen <em>(net)</em> gär</strong> Fussball.</li>
+		  	<li class="list-group-item">Ech <strong>spillen <em>(net)</em> gär</strong> Piano.</li>
+		</ul>
+	</div>
+</div>
+    <div class="col-md-6">
+	<div class="card bg-c2 text-main">
+		<h5 class="card-header">D'Wieder</h5>
+		<ul class="list-group list-group-flush">
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3 col-sm-4 col-md-3"><i class="bi bi-thermometer-high fs-4"></i></div>
+				<div class="col">Et as waarm</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3 col-sm-4 col-md-3"><i class="bi bi-thermometer-low fs-4"></i></div>
+				<div class="col">Et ass kal</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3 col-sm-4 col-md-3"><i class="bi bi-sun fs-4"></i></div><div class="col">D'Sonn schéngt</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3 col-sm-4 col-md-3"><i class="bi bi-cloud-sun fs-4"></i></div>
+				<div class="col">Et si Wolleken um Himmel</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3 col-sm-4 col-md-3"><i class="bi bi-clouds fs-4"></i></div>
+				<div class="col">Et ass bedeckt</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3 col-sm-4 col-md-3"><i class="bi bi-cloud-snow fs-4"></i></div>
+				<div class="col">Et schneit</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3 col-sm-4 col-md-3"><i class="bi bi-cloud-rain fs-4"></i></div>
+				<div class="col">Et reent</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3 col-sm-4 col-md-3"><i class="bi bi-cloud-fog2 fs-4"></i></div>
+				<div class="col">Et ass niwweleg</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3 col-sm-4 col-md-3"><i class="bi bi-lightning fs-4"></i></div>
+				<div class="col">Et ass an Donnerwieder</div>
+			</li> 	
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3 col-sm-4 col-md-3"><i class="bi bi-wind fs-4"></i></div>
+				<div class="col">Et ass vill Loft</div>
+			</li>
+		</ul>
+	</div>
+</div>
+</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Den Dagesoflat beschreiwen. Iwwert Hobbyen a Fräizäitaktivitéite schwätzen. E Rendez-vous ausmaachen.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter4.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter4.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kapitel 3</title><link href="http://0.0.0.0:4000/chapitre/kapitel-3" rel="alternate" type="text/html" title="Kapitel 3" /><published>2022-10-24T20:00:00+02:00</published><updated>2022-10-24T20:00:00+02:00</updated><id>http://0.0.0.0:4000/chapitre/kapitel-3</id><content type="html" xml:base="http://0.0.0.0:4000/chapitre/kapitel-3"><![CDATA[<div class="row g-4 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
+	<div class="col-lg-6">
+	<div class="card bg-c2 text-main">
+		<h5 class="card-header">Wou schafft Dir? <i class="bi bi-exclamation-triangle text-danger fs-4"></i></h5>
+	  	<ul class="list-group list-group-flush">
+		  	<li class="list-group-item">
+		  		Ech schaffen <strong>an</strong> + <strong>Gebaier</strong>.<br>
+			    Ech schaffen an engem Buttek / an enger Schoul / an enger Klinick.
+			</li>
+		  	<li class="list-group-item">
+				Ech schaffen <strong>bei</strong> + <strong>Persounen</strong>.<br>
+				Ech schaffe bei engem Dokter / bei engem Bäcker / bei enger Coiffeuse.
+			</li>
+		  	<li class="list-group-item">
+				Ech schaffen <strong>op</strong> + <strong>Administratiounen a Plazen</strong>.<br>
+				Ech schaffen op engem Büro / op enger Bank / op engem Maart / op enger Tankstell.
+			</li>
+		</ul>
+	</div>
+</div>
+	<div class="col-lg-6">
+	<div class="card bg-c2 text-main">
+  		<h5 class="card-header">D'Aueren <i class="bi bi-exclamation-triangle text-danger fs-4"></i></h5>
+		<ul class="list-group list-group-flush">
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3">6:00</div>
+				<div class="col">sechs Auer <strong>moies</strong></div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3">13:15</div>
+				<div class="col">Véierel op eng <strong>mëttes</strong></div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3">13:25</div>
+				<div class="col">fënnef vir hallwer <strong>zwou</strong> Auer <strong>mëttes</strong></div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3">15:30</div>
+				<div class="col">hallwer véier Auer <strong>nomëttes</strong></div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3">18:35</div>
+				<div class="col">fënnef op hallwer siwen Auer <strong>owes</strong></div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3">19:45</div>
+				<div class="col">Véierel vir aacht <strong>owes</strong></div>
+			</li>
+	  		<li class="list-group-item d-flex align-items-center">
+				<div class="col-3">1:00</div>
+				<div class="col">eng Auer <strong>nuets</strong></div>
+			</li>
+		</ul>
+	</div>
+</div>
+</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Säi Beruff nennen an eng Persoun duerno froen. Aktivitéiten am Kontext vun de Beruffer nennen a verstoen.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter3.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kapitel 2</title><link href="http://0.0.0.0:4000/chapitre/kapitel-2" rel="alternate" type="text/html" title="Kapitel 2" /><published>2022-10-03T20:00:00+02:00</published><updated>2022-10-03T20:00:00+02:00</updated><id>http://0.0.0.0:4000/chapitre/kapitel-2</id><content type="html" xml:base="http://0.0.0.0:4000/chapitre/kapitel-2"><![CDATA[<div class="row g-4 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
+	<div class="col-md-6">
+	<div class="card bg-c2 text-main">
+	  <h5 class="card-header">D'Joreszäiten</h5>
+	  	<ul class="list-group list-group-flush">
+			 
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-lg-4">d'Fréijoer</div>
+				<div class="col">le printemps</div>
+			</li> 
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-lg-4">de Summer</div>
+				<div class="col">l'été</div>
+			</li> 
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-lg-4">den Hierscht</div>
+				<div class="col">l'automne</div>
+			</li> 
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-lg-4">de Wanter</div>
+				<div class="col">l'hiver</div>
+			</li>
+		</ul>
+	</div>
+</div>
+	<div class="col-md-6">
+	<div class="card bg-c2 text-main">
+	  <h5 class="card-header">D'Méint</h5>
+	  	<ul class="list-group list-group-flush">
+			
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-sm-4">Januar</div>
+				<div class="col">janvier</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-sm-4">Februar</div>
+				<div class="col">février</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-sm-4">Mäerz</div>
+				<div class="col">mars</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-sm-4">Abrëll</div>
+				<div class="col">avril</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-sm-4">Mee</div>
+				<div class="col">mai</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-sm-4">Juni</div>
+				<div class="col">juin</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-sm-4">Juli</div>
+				<div class="col">juillet</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-sm-4">August</div>
+				<div class="col">août</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-sm-4">September</div>
+				<div class="col">septembre</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-sm-4">Oktober</div>
+				<div class="col">octobre</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-sm-4">November</div>
+				<div class="col">novembre</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-sm-4">Dezember</div>
+				<div class="col">décembre</div>
+			</li>
+		</ul>
+	</div>
+</div>
+	<div class="col-md-6">
+	<div class="card bg-c2 text-main">
+		<h5 class="card-header">Den Datum <i class="bi bi-exclamation-triangle text-danger fs-4"></i></h5>
+	  	<ul class="list-group list-group-flush">
+	  	 
+		  	<li class="list-group-item py-1 d-flex align-items-center">
+			    <div class="col-2">1.</div>
+				<div class="col">den <strong>éischten</strong></div>
+			</li>
+		 
+		  	<li class="list-group-item py-1 d-flex align-items-center">
+			    <div class="col-2">2.</div>
+				<div class="col">den zwee<strong>ten</strong></div>
+			</li>
+		 
+		  	<li class="list-group-item py-1 d-flex align-items-center">
+			    <div class="col-2">3.</div>
+				<div class="col">den <strong>drëtten</strong></div>
+			</li>
+		 
+		  	<li class="list-group-item py-1 d-flex align-items-center">
+			    <div class="col-2">4.</div>
+				<div class="col">de véier<strong>ten</strong></div>
+			</li>
+		 
+		  	<li class="list-group-item py-1 d-flex align-items-center">
+			    <div class="col-2">...</div>
+				<div class="col"></div>
+			</li>
+		 
+		  	<li class="list-group-item py-1 d-flex align-items-center">
+			    <div class="col-2">11.</div>
+				<div class="col">den eelef<strong>ten</strong></div>
+			</li>
+		 
+		  	<li class="list-group-item py-1 d-flex align-items-center">
+			    <div class="col-2">12.</div>
+				<div class="col">den zwielef<strong>ten</strong></div>
+			</li>
+		 
+		  	<li class="list-group-item py-1 d-flex align-items-center">
+			    <div class="col-2">13.</div>
+				<div class="col">den dräizéng<strong>ten</strong></div>
+			</li>
+		 
+		  	<li class="list-group-item py-1 d-flex align-items-center">
+			    <div class="col-2">14.</div>
+				<div class="col">de véierzéng<strong>ten</strong></div>
+			</li>
+		 
+		  	<li class="list-group-item py-1 d-flex align-items-center">
+			    <div class="col-2">15.</div>
+				<div class="col">de fofzéng<strong>ten</strong></div>
+			</li>
+		 
+		  	<li class="list-group-item py-1 d-flex align-items-center">
+			    <div class="col-2">...</div>
+				<div class="col"></div>
+			</li>
+		 
+		  	<li class="list-group-item py-1 d-flex align-items-center">
+			    <div class="col-2">20.</div>
+				<div class="col">den zwanzeg<strong>sten</strong></div>
+			</li>
+		 
+		  	<li class="list-group-item py-1 d-flex align-items-center">
+			    <div class="col-2">21.</div>
+				<div class="col">den eenanzwanzeg<strong>sten</strong></div>
+			</li>
+		 
+		  	<li class="list-group-item py-1 d-flex align-items-center">
+			    <div class="col-2">...</div>
+				<div class="col"></div>
+			</li>
+		
+		</ul>
+	</div>
+</div>
+	<div class="col-md-6">
+	<div class="card bg-c2 text-main">
+	  <h5 class="card-header">D'Wochendeeg</h5>
+	  	<ul class="list-group list-group-flush">
+			
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-lg-4">Méindeg</div>
+				<div class="col">lundi</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-lg-4">Dënschdeg</div>
+				<div class="col">mardi</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-lg-4">Mëttwoch</div>
+				<div class="col">mercredi</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-lg-4">Donneschdeg</div>
+				<div class="col">jeudi</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-lg-4">Freideg</div>
+				<div class="col">vendredi</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-lg-4">Samschdeg</div>
+				<div class="col">samedi</div>
+			</li>
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-5 col-lg-4">Sonndeg</div>
+				<div class="col">dimanche</div>
+			</li>
+		</ul>
+	</div>
+</div>
+</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Seng Telefonsnummer soen an eng Persoun duerno froen. Säin Alter a säi Gebuertsdag soen]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter2.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kapitel 1</title><link href="http://0.0.0.0:4000/chapitre/kapitel-1" rel="alternate" type="text/html" title="Kapitel 1" /><published>2022-09-20T20:00:00+02:00</published><updated>2022-09-20T20:00:00+02:00</updated><id>http://0.0.0.0:4000/chapitre/kapitel-1</id><content type="html" xml:base="http://0.0.0.0:4000/chapitre/kapitel-1"><![CDATA[<div class="row g-4 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
+	<div class="col-md-6">
+	<div class="card bg-c2 text-main">
+	  <h5 class="card-header">n-Reegel <i class="bi bi-exclamation-triangle text-danger fs-4"></i></h5>
+	  	<ul class="list-group list-group-flush">
+		  	<li class="list-group-item d-flex align-items-center">
+			    <div class="col-2 fs-5">n</div>
+				<div class="col-2 fw-bold">+</div>
+				<div class="col">A, E, I, O, U, (Y), D, H, N, T, Z [UNITED&nbsp;ZOHA]</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+			    <div class="col-2 fs-5"><span class="strikethrough">&nbsp;n&nbsp;</span></div>
+				<div class="col-2 fw-bold">+</div>
+				<div class="col">B, C, F, G, J, K, L, M, P, Q, R, S, V, W, X, (Y)</div>
+			</li>
+		</ul>
+	</div>
+</div>
+	<div class="col-md-6">
+	<div class="card bg-c2 text-main">
+	  <h5 class="card-header">D'Faarwen</h5>
+	  	<ul class="list-group list-group-flush">
+	  	 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4 col-xl-3">rout</div>
+				<div class="col-2"><i class="bi bi-square-fill" style="color:#cc0000;text-shadow: 0 0 1rem rgba(0, 0, 0, 0.225)"></i></div>
+				<div class="col">rouge</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4 col-xl-3">wäiss</div>
+				<div class="col-2"><i class="bi bi-square-fill" style="color:#ffffff;text-shadow: 0 0 1rem rgba(0, 0, 0, 0.225)"></i></div>
+				<div class="col">blanc</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4 col-xl-3">hellblo</div>
+				<div class="col-2"><i class="bi bi-square-fill" style="color:#80d4ff;text-shadow: 0 0 1rem rgba(0, 0, 0, 0.225)"></i></div>
+				<div class="col">bleu clair</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4 col-xl-3">donkelblo</div>
+				<div class="col-2"><i class="bi bi-square-fill" style="color:#042a5f;text-shadow: 0 0 1rem rgba(0, 0, 0, 0.225)"></i></div>
+				<div class="col">bleu foncé</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4 col-xl-3">giel</div>
+				<div class="col-2"><i class="bi bi-square-fill" style="color:#ffff00;text-shadow: 0 0 1rem rgba(0, 0, 0, 0.225)"></i></div>
+				<div class="col">jaune</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4 col-xl-3">schwaarz</div>
+				<div class="col-2"><i class="bi bi-square-fill" style="color:#000000;text-shadow: 0 0 1rem rgba(0, 0, 0, 0.225)"></i></div>
+				<div class="col">noir</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4 col-xl-3">hellgréng</div>
+				<div class="col-2"><i class="bi bi-square-fill" style="color:#66ff66;text-shadow: 0 0 1rem rgba(0, 0, 0, 0.225)"></i></div>
+				<div class="col">vert clair</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4 col-xl-3">donkelgréng</div>
+				<div class="col-2"><i class="bi bi-square-fill" style="color:#004d1a;text-shadow: 0 0 1rem rgba(0, 0, 0, 0.225)"></i></div>
+				<div class="col">vert foncé</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4 col-xl-3">brong</div>
+				<div class="col-2"><i class="bi bi-square-fill" style="color:#70380f;text-shadow: 0 0 1rem rgba(0, 0, 0, 0.225)"></i></div>
+				<div class="col">marron</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4 col-xl-3">orange</div>
+				<div class="col-2"><i class="bi bi-square-fill" style="color:#FF5F15;text-shadow: 0 0 1rem rgba(0, 0, 0, 0.225)"></i></div>
+				<div class="col">orange</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4 col-xl-3">mof</div>
+				<div class="col-2"><i class="bi bi-square-fill" style="color:#ac00e6;text-shadow: 0 0 1rem rgba(0, 0, 0, 0.225)"></i></div>
+				<div class="col">violet, mauve</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4 col-xl-3">rosa</div>
+				<div class="col-2"><i class="bi bi-square-fill" style="color:#ff80aa;text-shadow: 0 0 1rem rgba(0, 0, 0, 0.225)"></i></div>
+				<div class="col">rose</div>
+			</li>
+		
+		</ul>
+	</div>
+</div>
+	<div class="col-md-6">
+	<div class="card bg-c2 text-main">
+	  <h5 class="card-header">W-Froen</h5>
+	  	<ul class="list-group list-group-flush">
+	  	 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4">Wéi?</div><div class="col">Comment ?</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4">Wéi geet et?</div><div class="col">Comment ça va ?</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4">Wéi vill?</div><div class="col">Combien ?</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4">Wéini?</div><div class="col">Quand ?</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4">Wou?</div><div class="col">Où ?</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4">Vu wou?</div><div class="col">D'où ?</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4">Wien?</div><div class="col">Qui ?</div>
+			</li>
+		 
+		  	<li class="list-group-item d-flex align-items-center">
+				<div class="col-5 col-lg-4">Firwat?</div><div class="col">Pourquoi ?</div>
+			</li>
+		
+		</ul>
+	</div>
+</div>
+	<div class="col-md-8 col-lg-6">
+	<div class="card bg-c2 text-main">
+	  <h5 class="card-header">Vu wou kommt Dir? <i class="bi bi-exclamation-triangle text-danger fs-4"></i></h5>
+	  	<ul class="list-group list-group-flush">
+		  	<li class="list-group-item">
+			    Ech kommen <strong>aus</strong> + <strong>Land</strong>.<br>
+			    Ech kommen <strong>aus</strong> Frankräich / <strong>aus</strong> Italien.<br>
+			    <span class="text-decoration-underline text-c3">Mä:</span> Ech komme <strong class="text-danger">vu</strong> Lëtzebuerg / <strong class="text-danger">vum</strong> Cap Vert.
+			</li>
+		  	<li class="list-group-item">
+		  		Ech kommen <strong>vun</strong> + <strong>Uertschaft</strong>.<br>
+				Ech kommen <strong>vun</strong> Nanzeg / <strong>vu</strong> Roum.<br>
+				<span class="text-decoration-underline text-c3">Mä:</span> Ech kommen <strong class="text-danger">aus der</strong> Stad.
+			</li>
+		</ul>
+	</div>
+</div>
+</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Moein an Äddi soen. Soen a froen, wéi et geet. Sech virstellen an nom Numm vun enger Persoun froen.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter1.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

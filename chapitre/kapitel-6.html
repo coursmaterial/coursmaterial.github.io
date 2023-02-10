@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Support de cours pour le livre Schwätzt Dir Lëtzebuergesch? A1.">
+  <meta name="author" content="R. Cothenet">
+  <title>Coursmaterial</title>
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon-180x180.png">
+  <link rel="icon" type="image/png" href="/assets/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" href="/assets/img/favicon-192x192.png">
+
+  <!-- Bootsrap CDN -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+
+  <!-- FONTS -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap" rel="stylesheet">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+
+<body>
+	<script>/* add darkmode on load if already set */
+	if (localStorage.getItem('theme') === 'dark') document.body.className = 'darkmode';
+	</script>
+	<header>
+	<!-- navbar -->
+	<nav class="navbar navbar-expand-md navbar-dark fixed-top shadow" role="navigation">
+  <div class="container">
+    <a class="navbar-brand d-flex" href="/">
+      <img src="/assets/img/logo.png" alt="logo LCM" width="25" height="25">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="toggler-icon top-bar"></span>
+      <span class="toggler-icon middle-bar"></span>
+      <span class="toggler-icon bottom-bar"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+      <ul class="navbar-nav me-md-auto mb-2 mb-md-0">
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="/">Accueil</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Chapitres
+          </a>
+          <ul class="dropdown-menu dropdown-menu-dark bg-c4" style="border:none;">
+    			
+    				<li class="nav-item">
+    					<a class="dropdown-item" href="/chapitre/kapitel-1">
+    						<span class="d-inline-block rounded-circle p-1" style="background-color: #ffcc00"></span> Kapitel 1
+    					</a></li>
+    				<li class="nav-item">
+    					<a class="dropdown-item" href="/chapitre/kapitel-2">
+    						<span class="d-inline-block rounded-circle p-1" style="background-color: #ff9900"></span> Kapitel 2
+    					</a></li>
+    				<li class="nav-item">
+    					<a class="dropdown-item" href="/chapitre/kapitel-3">
+    						<span class="d-inline-block rounded-circle p-1" style="background-color: #cc0000"></span> Kapitel 3
+    					</a></li>
+    				<li class="nav-item">
+    					<a class="dropdown-item" href="/chapitre/kapitel-4">
+    						<span class="d-inline-block rounded-circle p-1" style="background-color: #990066"></span> Kapitel 4
+    					</a></li>
+    				<li class="nav-item">
+    					<a class="dropdown-item" href="/chapitre/kapitel-5">
+    						<span class="d-inline-block rounded-circle p-1" style="background-color: #3300cc"></span> Kapitel 5
+    					</a></li>
+    				<li class="nav-item">
+    					<a class="dropdown-item" href="/chapitre/kapitel-6">
+    						<span class="d-inline-block rounded-circle p-1" style="background-color: #009933"></span> Kapitel 6
+    					</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/conjugaison">Conjugaison</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/vocabulaire">Vocabulaire</a>
+        </li>
+      </ul>
+      <ul class="navbar-nav">
+        <li class="nav-item">
+            <button id="darkmode-toggle" type="button" class="btn" aria-label="toggle dark mode"><i class="bi bi-circle-half"></i></button>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+	<!-- end navbar -->
+	</header>
+	<main>
+	<!-- content -->
+	<div class="bg-c2 text-main mb-2">
+    <div class="container pt-4 pb-3 pt-sm-5 pb-sm-4">
+        <h2 class="d-inline-block fw-semibold pb-2" style="border-bottom:0.25rem solid #009933">Kapitel 6</h2><a href="https://sdl.inll.lu/?page_id=898" target="_blank" class="btn chapter-link"><i class="bi bi-book"></i></a>
+    </div>
+</div>
+<div class="container">
+    <section class="my-4">
+        
+        <div class="row gx-4 gy-2 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
+            
+<div class="col-md-10 col-lg-6">
+	<div class="card px-3 py-2 bg-c2">
+		<p class="fw-semibold m-0">Ass dat däi Brudder?</p>
+		<p class="m-0 ps-2"><i class="bi bi-arrow-return-right text-c3 fs-5"></i> Jo, dat ass mäi Brudder.</p>
+	</div>
+</div>
+        </div>
+        <div class="row g-4 mt-2 mb-1">
+    <div class="col-md-6">
+	<div class="card bg-c2">
+		<h5 class="card-header">Possessivartikel <i class="bi bi-exclamation-triangle text-danger fs-4"></i></h5>
+        <table id="table-p-article" class="table text-main">
+            <thead>
+                <tr>
+                    <th scope="col"></th>
+                    <th scope="col"><i class="bi bi-gender-male text-m"></i></th>
+                    <th scope="col"><i class="bi bi-gender-female text-f"></i><i class="bi bi-people"></i></th>
+                    <th scope="col"><i class="bi bi-record text-n"></i></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">ech</th>
+                    <td>mäin</td>
+                    <td>meng</td>
+                    <td>mäin</td>
+                </tr>
+                <tr>
+                    <th scope="row">du</th>
+                    <td>däin</td>
+                    <td>deng</td>
+                    <td>däin</td>
+                </tr>
+                <tr>
+                    <th scope="row">hien/hatt</th>
+                    <td>säin</td>
+                    <td>seng</td>
+                    <td>säin</td>
+                </tr>
+                <tr>
+                    <th scope="row">si</th>
+                    <td>hiren</td>
+                    <td>hir</td>
+                    <td>hiert</td>
+                </tr>
+                <tr>
+                    <th scope="row">mir</th>
+                    <td>eisen</td>
+                    <td>eis</td>
+                    <td>eist</td>
+                </tr>
+                <tr>
+                    <th scope="row">dir/Dir</th>
+                    <td>ären/Ären</td>
+                    <td>är/Är</td>
+                    <td>äert/Äert</td>
+                </tr>
+                <tr>
+                    <th scope="row">si</th>
+                    <td>hiren</td>
+                    <td>hir</td>
+                    <td>hiert</td>
+                </tr>
+            </tbody>
+        </table>
+	</div>
+</div>
+    <div class="col-md-6">
+	<div class="card bg-c2 text-main">
+		<h5 class="card-header">Familljememberen</h5>
+		<ul class="nav nav-tabs" id="myTab" role="tablist">
+			<li class="nav-item" role="presentation">
+				<button class="nav-link active" id="male-tab" data-bs-toggle="tab" data-bs-target="#male-tab-pane"
+					type="button" role="tab" aria-controls="male-tab-pane" aria-selected="true"><span
+						class="d-none d-lg-inline">männlech </span><i class="bi bi-gender-male text-m"></i></button>
+			</li>
+			<li class="nav-item" role="presentation">
+				<button class="nav-link" id="female-tab" data-bs-toggle="tab" data-bs-target="#female-tab-pane"
+					type="button" role="tab" aria-controls="female-tab-pane" aria-selected="false"><span
+					class="d-none d-lg-inline">weiblech </span><i class="bi bi-gender-female text-f"></i></button>
+			</li>
+			<li class="nav-item" role="presentation">
+				<button class="nav-link" id="neutral-tab" data-bs-toggle="tab" data-bs-target="#neutral-tab-pane"
+					type="button" role="tab" aria-controls="neutral-tab-pane" aria-selected="false"><span
+					class="d-none d-lg-inline">sächlech </span><i class="bi bi-record text-n"></i></button>
+			</li>
+			<li class="nav-item" role="presentation">
+				<button class="nav-link" id="plural-tab" data-bs-toggle="tab" data-bs-target="#plural-tab-pane"
+					type="button" role="tab" aria-controls="plural-tab-pane" aria-selected="false"><span
+					class="d-none d-lg-inline">Plural </span><i class="bi bi-people"></i></button>
+			</li>
+		</ul>
+		<div class="tab-content" id="myTabContent">
+			<div class="tab-pane fade show active" id="male-tab-pane" role="tabpanel" aria-labelledby="male-tab" tabindex="0">
+				<ul class="list-group list-group-flush">
+					
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Papp, Pappen</div>
+							<div class="col">papa(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Mann, Männer</div>
+							<div class="col">mari(s), époux</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Brudder, Bridder</div>
+							<div class="col">frère(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Monni, Monnien</div>
+							<div class="col">oncle(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Grousspapp, Grousspappen / Bopa, Bopaen / Bopi, Bopien</div>
+							<div class="col">grand-père(s), papi(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Bouf, Bouwen / Jong, Jongen</div>
+							<div class="col">fils</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Enkel, Enkelen</div>
+							<div class="col">petit(s)-fils</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Schwoer, Schwoeren</div>
+							<div class="col">beau(x)-frère(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Eedem, Eedemen</div>
+							<div class="col">beau(x)-fils, gendre(s)</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="tab-pane fade" id="female-tab-pane" role="tabpanel" aria-labelledby="female-tab" tabindex="0">
+				<ul class="list-group list-group-flush">
+					
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Mamm, Mammen</div>
+							<div class="col">maman(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Fra, Fraen</div>
+							<div class="col">femme(s), épouse(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Schwester, Schwësteren</div>
+							<div class="col">sœur(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Tatta, Tattaen</div>
+							<div class="col">tante(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Groussmamm, Groussmammen / Boma, Bomaen / Bomi, Bomien</div>
+							<div class="col">grand-mère(s), mamie(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Duechter, Diechter / Duechteren</div>
+							<div class="col">fille(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Enkelin, Enkelinnen</div>
+							<div class="col">petite(s)-fille(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Schwéiesch, Schwéieschen</div>
+							<div class="col">belle(s)-sœur(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Schnauer, Schnaueren</div>
+							<div class="col">belle(s)-fille(s)</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="tab-pane fade" id="neutral-tab-pane" role="tabpanel" aria-labelledby="neutral-tab" tabindex="0">
+				<ul class="list-group list-group-flush">
+					
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Kand, Kanner</div>
+							<div class="col">enfant(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Meedchen, Meedercher</div>
+							<div class="col">fille(s)</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Enkelkand, Enkelkanner</div>
+							<div class="col">petit(s)-fils, petite(s)-fille(s), petit(s)-enfant(s)</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="tab-pane fade" id="plural-tab-pane" role="tabpanel" aria-labelledby="plural-tab" tabindex="0">
+				<ul class="list-group list-group-flush">
+					
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Elteren</div>
+							<div class="col">parents</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Geschwester</div>
+							<div class="col">frères et sœurs</div>
+						</div>
+					</li>
+					<li class="list-group-item">
+						<div class="row align-items-center">
+							<div class="col-6 col-sm-5">Schwéierelteren</div>
+							<div class="col">beaux-parents</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+    </section>
+
+    
+    
+    
+    <!-- conjugaison section -->
+    <section>
+        <h3 class="section-title">Conjugaison</h3>
+        
+
+<div class="row g-3">
+	
+	<div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+		<div class="card bg-c2">
+			<h5 class="card-header">kënnen <span class="fw-normal">(pouvoir, savoir)</span></h5>
+			<div class="py-2 px-3">
+				
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">ech</div>
+					<div class="col fw-semibold">kann</div>
+				</div>
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">du</div>
+					<div class="col fw-semibold">kanns</div>
+				</div>
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">hien/hatt/si</div>
+					<div class="col fw-semibold">kann</div>
+				</div>
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">mir</div>
+					<div class="col fw-semibold">kënnen</div>
+				</div>
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">dir/Dir</div>
+					<div class="col fw-semibold">kënnt</div>
+				</div>
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">si</div>
+					<div class="col fw-semibold">kënnen</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+		<div class="card bg-c2">
+			<h5 class="card-header">sichen <span class="fw-normal">(chercher)</span></h5>
+			<div class="py-2 px-3">
+				
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">ech</div>
+					<div class="col fw-semibold">sichen</div>
+				</div>
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">du</div>
+					<div class="col fw-semibold">sichs</div>
+				</div>
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">hien/hatt/si</div>
+					<div class="col fw-semibold">sicht</div>
+				</div>
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">mir</div>
+					<div class="col fw-semibold">sichen</div>
+				</div>
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">dir/Dir</div>
+					<div class="col fw-semibold">sicht</div>
+				</div>
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">si</div>
+					<div class="col fw-semibold">sichen</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+		<div class="card bg-c2">
+			<h5 class="card-header">gesinn <span class="fw-normal">(voir)</span></h5>
+			<div class="py-2 px-3">
+				
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">ech</div>
+					<div class="col fw-semibold">gesinn</div>
+				</div>
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">du</div>
+					<div class="col fw-semibold">gesäis</div>
+				</div>
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">hien/hatt/si</div>
+					<div class="col fw-semibold">gesäit</div>
+				</div>
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">mir</div>
+					<div class="col fw-semibold">gesinn</div>
+				</div>
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">dir/Dir</div>
+					<div class="col fw-semibold">gesitt</div>
+				</div>
+				<div class="row align-items-start">
+					<div class="col-4 col-sm-6 text-secondary">si</div>
+					<div class="col fw-semibold">gesinn</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+    </section>
+    <!-- end conjugaison section -->
+    <!-- vocabulaire section -->
+    <section>
+        <h3 class="section-title">Vocabulaire</h3>
+        <div class="accordion col-md-8 col-lg-6" id="accordionVocList">
+	
+	<div class="accordion-item">
+	  <h2 class="accordion-header" id="heading-hochzait">
+	    <button class="accordion-button collapsed text-main" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-hochzait" aria-expanded="false" aria-controls="collapse-hochzait">
+	      Hochzäit&nbsp;
+	      <small class="text-secondary">
+	        (substantif <i class="bi bi-gender-female text-f"></i>)
+	      </small>
+	    </button>
+	  </h2>
+	  <div id="collapse-hochzait" class="accordion-collapse collapse" aria-labelledby="heading-hochzait" data-bs-parent="#accordionVocList">
+	    <div class="accordion-body pt-2">
+	      mariage, noces  <a href="https://lod.lu/artikel/HOCHZAIT1" target="_blank" role="button" class="btn btn-lod text-light bg-c4">lod.lu <i class="bi bi-box-arrow-up-right"></i></a>
+	    </div>
+	  </div>
+	</div>
+	<div class="accordion-item">
+	  <h2 class="accordion-header" id="heading-famill">
+	    <button class="accordion-button collapsed text-main" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-famill" aria-expanded="false" aria-controls="collapse-famill">
+	      Famill&nbsp;
+	      <small class="text-secondary">
+	        (substantif <i class="bi bi-gender-female text-f"></i>)
+	      </small>
+	    </button>
+	  </h2>
+	  <div id="collapse-famill" class="accordion-collapse collapse" aria-labelledby="heading-famill" data-bs-parent="#accordionVocList">
+	    <div class="accordion-body pt-2">
+	      famille  <a href="https://lod.lu/artikel/FAMILL1" target="_blank" role="button" class="btn btn-lod text-light bg-c4">lod.lu <i class="bi bi-box-arrow-up-right"></i></a>
+	    </div>
+	  </div>
+	</div>
+	<div class="accordion-item">
+	  <h2 class="accordion-header" id="heading-eedem">
+	    <button class="accordion-button collapsed text-main" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-eedem" aria-expanded="false" aria-controls="collapse-eedem">
+	      Eedem&nbsp;
+	      <small class="text-secondary">
+	        (substantif <i class="bi bi-gender-male text-m"></i>)
+	      </small>
+	    </button>
+	  </h2>
+	  <div id="collapse-eedem" class="accordion-collapse collapse" aria-labelledby="heading-eedem" data-bs-parent="#accordionVocList">
+	    <div class="accordion-body pt-2">
+	      gendre, beau-fils  <a href="https://lod.lu/artikel/EEDEM1" target="_blank" role="button" class="btn btn-lod text-light bg-c4">lod.lu <i class="bi bi-box-arrow-up-right"></i></a>
+	    </div>
+	  </div>
+	</div>
+	<div class="accordion-item">
+	  <h2 class="accordion-header" id="heading-schnauer">
+	    <button class="accordion-button collapsed text-main" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-schnauer" aria-expanded="false" aria-controls="collapse-schnauer">
+	      Schnauer&nbsp;
+	      <small class="text-secondary">
+	        (substantif <i class="bi bi-gender-female text-f"></i>)
+	      </small>
+	    </button>
+	  </h2>
+	  <div id="collapse-schnauer" class="accordion-collapse collapse" aria-labelledby="heading-schnauer" data-bs-parent="#accordionVocList">
+	    <div class="accordion-body pt-2">
+	      belle-fille  <a href="https://lod.lu/artikel/SCHNAUER1" target="_blank" role="button" class="btn btn-lod text-light bg-c4">lod.lu <i class="bi bi-box-arrow-up-right"></i></a>
+	    </div>
+	  </div>
+	</div>
+	<div class="accordion-item">
+	  <h2 class="accordion-header" id="heading-elteren">
+	    <button class="accordion-button collapsed text-main" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-elteren" aria-expanded="false" aria-controls="collapse-elteren">
+	      Elteren&nbsp;
+	      <small class="text-secondary">
+	        (substantif)
+	      </small>
+	    </button>
+	  </h2>
+	  <div id="collapse-elteren" class="accordion-collapse collapse" aria-labelledby="heading-elteren" data-bs-parent="#accordionVocList">
+	    <div class="accordion-body pt-2">
+	      parents  <a href="https://lod.lu/artikel/ELTEREN1" target="_blank" role="button" class="btn btn-lod text-light bg-c4">lod.lu <i class="bi bi-box-arrow-up-right"></i></a>
+	    </div>
+	  </div>
+	</div>
+	<div class="accordion-item">
+	  <h2 class="accordion-header" id="heading-schweierelteren">
+	    <button class="accordion-button collapsed text-main" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-schweierelteren" aria-expanded="false" aria-controls="collapse-schweierelteren">
+	      Schwéierelteren&nbsp;
+	      <small class="text-secondary">
+	        (substantif)
+	      </small>
+	    </button>
+	  </h2>
+	  <div id="collapse-schweierelteren" class="accordion-collapse collapse" aria-labelledby="heading-schweierelteren" data-bs-parent="#accordionVocList">
+	    <div class="accordion-body pt-2">
+	      beaux-parents [parents du conjoint]  <a href="https://lod.lu/artikel/SCHWEIERELTEREN1" target="_blank" role="button" class="btn btn-lod text-light bg-c4">lod.lu <i class="bi bi-box-arrow-up-right"></i></a>
+	    </div>
+	  </div>
+	</div>
+	<div class="accordion-item">
+	  <h2 class="accordion-header" id="heading-eenzelkand">
+	    <button class="accordion-button collapsed text-main" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-eenzelkand" aria-expanded="false" aria-controls="collapse-eenzelkand">
+	      Eenzelkand&nbsp;
+	      <small class="text-secondary">
+	        (substantif <i class="bi bi-record text-n"></i>)
+	      </small>
+	    </button>
+	  </h2>
+	  <div id="collapse-eenzelkand" class="accordion-collapse collapse" aria-labelledby="heading-eenzelkand" data-bs-parent="#accordionVocList">
+	    <div class="accordion-body pt-2">
+	      enfant unique, fils unique, fille unique  <a href="https://lod.lu/artikel/EENZELKAND1" target="_blank" role="button" class="btn btn-lod text-light bg-c4">lod.lu <i class="bi bi-box-arrow-up-right"></i></a>
+	    </div>
+	  </div>
+	</div>
+	<div class="accordion-item">
+	  <h2 class="accordion-header" id="heading-interessant">
+	    <button class="accordion-button collapsed text-main" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-interessant" aria-expanded="false" aria-controls="collapse-interessant">
+	      interessant&nbsp;
+	      <small class="text-secondary">
+	        (adjectif)
+	      </small>
+	    </button>
+	  </h2>
+	  <div id="collapse-interessant" class="accordion-collapse collapse" aria-labelledby="heading-interessant" data-bs-parent="#accordionVocList">
+	    <div class="accordion-body pt-2">
+	      intéressant  <a href="https://lod.lu/artikel/INTERESSANT1" target="_blank" role="button" class="btn btn-lod text-light bg-c4">lod.lu <i class="bi bi-box-arrow-up-right"></i></a>
+	    </div>
+	  </div>
+	</div>
+	<div class="accordion-item">
+	  <h2 class="accordion-header" id="heading-langweileg">
+	    <button class="accordion-button collapsed text-main" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-langweileg" aria-expanded="false" aria-controls="collapse-langweileg">
+	      langweileg&nbsp;
+	      <small class="text-secondary">
+	        (adjectif)
+	      </small>
+	    </button>
+	  </h2>
+	  <div id="collapse-langweileg" class="accordion-collapse collapse" aria-labelledby="heading-langweileg" data-bs-parent="#accordionVocList">
+	    <div class="accordion-body pt-2">
+	      ennuyeux  <a href="https://lod.lu/artikel/LANGWEILEG1" target="_blank" role="button" class="btn btn-lod text-light bg-c4">lod.lu <i class="bi bi-box-arrow-up-right"></i></a>
+	    </div>
+	  </div>
+	</div>
+	<div class="accordion-item">
+	  <h2 class="accordion-header" id="heading-deck">
+	    <button class="accordion-button collapsed text-main" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-deck" aria-expanded="false" aria-controls="collapse-deck">
+	      déck&nbsp;
+	      <small class="text-secondary">
+	        (adjectif)
+	      </small>
+	    </button>
+	  </h2>
+	  <div id="collapse-deck" class="accordion-collapse collapse" aria-labelledby="heading-deck" data-bs-parent="#accordionVocList">
+	    <div class="accordion-body pt-2">
+	      gros [volumineux, corpulent]  <a href="https://lod.lu/artikel/DECK1" target="_blank" role="button" class="btn btn-lod text-light bg-c4">lod.lu <i class="bi bi-box-arrow-up-right"></i></a>
+	    </div>
+	  </div>
+	</div>
+	<div class="accordion-item">
+	  <h2 class="accordion-header" id="heading-denn">
+	    <button class="accordion-button collapsed text-main" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-denn" aria-expanded="false" aria-controls="collapse-denn">
+	      dënn&nbsp;
+	      <small class="text-secondary">
+	        (adjectif)
+	      </small>
+	    </button>
+	  </h2>
+	  <div id="collapse-denn" class="accordion-collapse collapse" aria-labelledby="heading-denn" data-bs-parent="#accordionVocList">
+	    <div class="accordion-body pt-2">
+	      mince, maigre, fin  <a href="https://lod.lu/artikel/DENN1" target="_blank" role="button" class="btn btn-lod text-light bg-c4">lod.lu <i class="bi bi-box-arrow-up-right"></i></a>
+	    </div>
+	  </div>
+	</div>
+</div>
+    </section>
+    <!-- end vocabulaire section -->
+</div>
+	<!-- end content -->
+	</main>
+	<!-- footer -->
+	<footer class="mt-4">
+	<div class="bg-c2 text-light container-flex py-4 pb-sm-4 pt-sm-5">
+		<div class="container">
+			<div class="row g-3">
+				<div class="col-12 col-md-6">
+					<h6 class="footer-title">Chapitres</h6>	
+					<div class="row">
+						
+						<div class="col-4">
+							<a href="/chapitre/kapitel-1" class="btn footer-link">
+								<i class="bi bi-bookmark"></i> Kapitel 1
+							</a>
+						</div>
+						
+						<div class="col-4">
+							<a href="/chapitre/kapitel-2" class="btn footer-link">
+								<i class="bi bi-bookmark"></i> Kapitel 2
+							</a>
+						</div>
+						
+						<div class="col-4">
+							<a href="/chapitre/kapitel-3" class="btn footer-link">
+								<i class="bi bi-bookmark"></i> Kapitel 3
+							</a>
+						</div>
+						
+						<div class="col-4">
+							<a href="/chapitre/kapitel-4" class="btn footer-link">
+								<i class="bi bi-bookmark"></i> Kapitel 4
+							</a>
+						</div>
+						
+						<div class="col-4">
+							<a href="/chapitre/kapitel-5" class="btn footer-link">
+								<i class="bi bi-bookmark"></i> Kapitel 5
+							</a>
+						</div>
+						
+						<div class="col-4">
+							<a href="/chapitre/kapitel-6" class="btn footer-link">
+								<i class="bi bi-bookmark"></i> Kapitel 6
+							</a>
+						</div>
+						
+					</div>
+				</div>
+				<div class="col-6 col-md-3">
+					<h6 class="footer-title">Raccourcis</h6>
+					<div class="row">
+						<div class="col-12">
+							<a href="/vocabulaire" class="btn footer-link">
+								<i class="bi bi-list-columns-reverse"></i> Vocabulaire
+							</a>
+						</div>
+						<div class="col-12">
+							<a href="/conjugaison" class="btn footer-link">
+								<i class="bi bi-card-list"></i> Conjugaison
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-6 col-md-3">
+					<h6 class="footer-title">Liens utiles</h6>
+					<div class="row rows-col-1">
+						<div class="col-12">
+							<a href="https://sdl.inll.lu/?page_id=720" target="_blank" class="btn footer-link">
+								<i class="bi bi-book"></i> sdl.inll.lu
+							</a>
+						</div>
+						<div class="col-12">
+							<a href="https://lod.lu/" target="_blank" class="btn footer-link">
+								<i class="bi bi-translate"></i> lod.lu
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer-bottom container-flex">
+		<p class="m-0">&copy; Coursmaterial | <a href="/a-propos-du-site">à propos du site</a></p>
+	</div>
+</footer>
+	<!-- end footer -->
+
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous" async></script>
+	<script src="/assets/js/main.js"></script>
+</body>
+</html>
