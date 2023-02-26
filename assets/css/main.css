@@ -5,6 +5,8 @@
   --c4: #786d68;
   --text-main-color: #595959;
   --text-secondary-color: var(--c4);
+  --tooltip-bg: #15181e;
+  --tooltip-color: var(--c2);
 }
 
 .darkmode {
@@ -14,6 +16,8 @@
   --text-main-color: #f4f5f6;
   --text-secondary-color: #b5aeaa;
   --bs-border-color: var(--c1);
+  --tooltip-bg: #f4f5f6;
+  --tooltip-color: var(--c2);
 }
 
 body {
@@ -179,6 +183,12 @@ main {
   padding: 0.05rem 0.3rem 0.05rem 0.3rem;
   border-radius:1rem;
   font-size: .75rem;
+}
+.dropdown-menu {
+  padding: 0.25rem;
+}
+.dropdown-item {
+  border-radius: 0.375rem !important;
 }
 .dropdown-item:active {
   background-color: rgba(0, 0, 0, 0.15) !important;
@@ -398,4 +408,19 @@ main {
   z-index: 99;
   font-size: 2rem;
   text-shadow: 0 0 0.7rem rgba(0, 0, 0, 0.5);
+}
+
+.tooltip-style {
+  --bs-tooltip-bg: var(--tooltip-bg);
+  --bs-tooltip-color: var(--tooltip-color);
+  --bs-tooltip-font-size: 1.5rem;
+  --bs-tooltip-padding-y: 0.25rem;
+  --bs-tooltip-padding-x: 0.5rem;
+  --bs-tooltip-font-size: 1.25rem;
+  --bs-tooltip-arrow-width: 1rem;
+  --bs-tooltip-arrow-height: 0.8rem;
+  --bs-tooltip-opacity: 0.9rem;
+}
+.svg-ellipse {
+  cursor: help;
 }
