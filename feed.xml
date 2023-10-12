@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2023-02-26T21:20:19+01:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Coursmaterial</title><subtitle>Support de cours pour le livre Schwätzt Dir Lëtzebuergesch? A1.</subtitle><entry><title type="html">Kapitel 6</title><link href="http://0.0.0.0:4000/chapitre/kapitel-6" rel="alternate" type="text/html" title="Kapitel 6" /><published>2023-01-09T15:25:00+01:00</published><updated>2023-01-09T15:25:00+01:00</updated><id>http://0.0.0.0:4000/chapitre/kapitel-6</id><content type="html" xml:base="http://0.0.0.0:4000/chapitre/kapitel-6"><![CDATA[<div class="row g-4 mt-2 mb-1">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2023-10-12T23:15:57+02:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Coursmaterial</title><subtitle>Support de cours pour les livres Schwätzt Dir Lëtzebuergesch?</subtitle><entry><title type="html">Kapitel 6</title><link href="http://0.0.0.0:4000/A1/kapitel-6" rel="alternate" type="text/html" title="Kapitel 6" /><published>2023-01-09T15:25:00+01:00</published><updated>2023-01-09T15:25:00+01:00</updated><id>http://0.0.0.0:4000/A1/kapitel-6</id><content type="html" xml:base="http://0.0.0.0:4000/A1/kapitel-6"><![CDATA[<div class="row g-4 mt-2 mb-1">
     <div class="col-md-6">
 	<div class="card bg-c2">
 		<h5 class="card-header">Possessivartikel <i class="bi bi-exclamation-triangle text-danger fs-4"></i></h5>
@@ -246,7 +246,7 @@
 		</div>
 	</div>
 </div>
-</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Iwwert seng Famill a seng Frënn schwätzen. Eng Persoun beschreiwen. E Gespréich beim Dokter féieren.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter6.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter6.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kapitel 5</title><link href="http://0.0.0.0:4000/chapitre/kapitel-5" rel="alternate" type="text/html" title="Kapitel 5" /><published>2022-12-10T14:00:00+01:00</published><updated>2022-12-10T14:00:00+01:00</updated><id>http://0.0.0.0:4000/chapitre/kapitel-5</id><content type="html" xml:base="http://0.0.0.0:4000/chapitre/kapitel-5"><![CDATA[<div class="row g-4 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
+</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Iwwert seng Famill a seng Frënn schwätzen. Eng Persoun beschreiwen. E Gespréich beim Dokter féieren.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter6.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter6.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kapitel 5</title><link href="http://0.0.0.0:4000/A1/kapitel-5" rel="alternate" type="text/html" title="Kapitel 5" /><published>2022-12-10T14:00:00+01:00</published><updated>2022-12-10T14:00:00+01:00</updated><id>http://0.0.0.0:4000/A1/kapitel-5</id><content type="html" xml:base="http://0.0.0.0:4000/A1/kapitel-5"><![CDATA[<div class="row g-4 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
     
 <div class="col-md-6">
 	<div class="card bg-c2 text-main">
@@ -337,7 +337,7 @@
 		</ul>
 	</div>
 </div>
-</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Iessen a Gedrénks nennen a beschreiwen. Soen, wat ee gär order net gär ësst an drénkt. En Akafsgespréich féieren.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter5.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter5.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kapitel 4</title><link href="http://0.0.0.0:4000/chapitre/kapitel-4" rel="alternate" type="text/html" title="Kapitel 4" /><published>2022-11-16T19:00:20+01:00</published><updated>2022-11-16T19:00:20+01:00</updated><id>http://0.0.0.0:4000/chapitre/kapitel-4</id><content type="html" xml:base="http://0.0.0.0:4000/chapitre/kapitel-4"><![CDATA[<div class="row g-4 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
+</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Iessen a Gedrénks nennen a beschreiwen. Soen, wat ee gär order net gär ësst an drénkt. En Akafsgespréich féieren.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter5.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter5.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kapitel 4</title><link href="http://0.0.0.0:4000/A1/kapitel-4" rel="alternate" type="text/html" title="Kapitel 4" /><published>2022-11-16T19:00:20+01:00</published><updated>2022-11-16T19:00:20+01:00</updated><id>http://0.0.0.0:4000/A1/kapitel-4</id><content type="html" xml:base="http://0.0.0.0:4000/A1/kapitel-4"><![CDATA[<div class="row g-4 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
     <div class="col-md-6">
 	<div class="card bg-c2 text-main">
 		<h5 class="card-header">Wat sinn Är Hobbyen? <i class="bi bi-exclamation-triangle text-danger fs-4"></i></h5>
@@ -401,7 +401,7 @@
 		</ul>
 	</div>
 </div>
-</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Den Dagesoflat beschreiwen. Iwwert Hobbyen a Fräizäitaktivitéite schwätzen. E Rendez-vous ausmaachen.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter4.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter4.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kapitel 3</title><link href="http://0.0.0.0:4000/chapitre/kapitel-3" rel="alternate" type="text/html" title="Kapitel 3" /><published>2022-10-24T20:00:00+02:00</published><updated>2022-10-24T20:00:00+02:00</updated><id>http://0.0.0.0:4000/chapitre/kapitel-3</id><content type="html" xml:base="http://0.0.0.0:4000/chapitre/kapitel-3"><![CDATA[<div class="row g-4 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
+</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Den Dagesoflat beschreiwen. Iwwert Hobbyen a Fräizäitaktivitéite schwätzen. E Rendez-vous ausmaachen.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter4.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter4.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kapitel 3</title><link href="http://0.0.0.0:4000/A1/kapitel-3" rel="alternate" type="text/html" title="Kapitel 3" /><published>2022-10-24T20:00:00+02:00</published><updated>2022-10-24T20:00:00+02:00</updated><id>http://0.0.0.0:4000/A1/kapitel-3</id><content type="html" xml:base="http://0.0.0.0:4000/A1/kapitel-3"><![CDATA[<div class="row g-4 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
 	<div class="col-lg-6">
 	<div class="card bg-c2 text-main">
 		<h5 class="card-header">Wou schafft Dir? <i class="bi bi-exclamation-triangle text-danger fs-4"></i></h5>
@@ -456,7 +456,7 @@
 		</ul>
 	</div>
 </div>
-</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Säi Beruff nennen an eng Persoun duerno froen. Aktivitéiten am Kontext vun de Beruffer nennen a verstoen.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter3.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kapitel 2</title><link href="http://0.0.0.0:4000/chapitre/kapitel-2" rel="alternate" type="text/html" title="Kapitel 2" /><published>2022-10-03T20:00:00+02:00</published><updated>2022-10-03T20:00:00+02:00</updated><id>http://0.0.0.0:4000/chapitre/kapitel-2</id><content type="html" xml:base="http://0.0.0.0:4000/chapitre/kapitel-2"><![CDATA[<div class="row g-4 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
+</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Säi Beruff nennen an eng Persoun duerno froen. Aktivitéiten am Kontext vun de Beruffer nennen a verstoen.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter3.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kapitel 2</title><link href="http://0.0.0.0:4000/A1/kapitel-2" rel="alternate" type="text/html" title="Kapitel 2" /><published>2022-10-03T20:00:00+02:00</published><updated>2022-10-03T20:00:00+02:00</updated><id>http://0.0.0.0:4000/A1/kapitel-2</id><content type="html" xml:base="http://0.0.0.0:4000/A1/kapitel-2"><![CDATA[<div class="row g-4 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
 	<div class="col-md-6">
 	<div class="card bg-c2 text-main">
 	  <h5 class="card-header">D'Joreszäiten</h5>
@@ -651,7 +651,7 @@
 		</ul>
 	</div>
 </div>
-</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Seng Telefonsnummer soen an eng Persoun duerno froen. Säin Alter a säi Gebuertsdag soen]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter2.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kapitel 1</title><link href="http://0.0.0.0:4000/chapitre/kapitel-1" rel="alternate" type="text/html" title="Kapitel 1" /><published>2022-09-20T20:00:00+02:00</published><updated>2022-09-20T20:00:00+02:00</updated><id>http://0.0.0.0:4000/chapitre/kapitel-1</id><content type="html" xml:base="http://0.0.0.0:4000/chapitre/kapitel-1"><![CDATA[<div class="row g-4 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
+</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Seng Telefonsnummer soen an eng Persoun duerno froen. Säin Alter a säi Gebuertsdag soen]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter2.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kapitel 1</title><link href="http://0.0.0.0:4000/A1/kapitel-1" rel="alternate" type="text/html" title="Kapitel 1" /><published>2022-09-20T20:00:00+02:00</published><updated>2022-09-20T20:00:00+02:00</updated><id>http://0.0.0.0:4000/A1/kapitel-1</id><content type="html" xml:base="http://0.0.0.0:4000/A1/kapitel-1"><![CDATA[<div class="row g-4 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
 	<div class="col-md-6">
 	<div class="card bg-c2 text-main">
 	  <h5 class="card-header">n-Reegel <i class="bi bi-exclamation-triangle text-danger fs-4"></i></h5>
@@ -806,4 +806,24 @@
 		</ul>
 	</div>
 </div>
-</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Moein an Äddi soen. Soen a froen, wéi et geet. Sech virstellen an nom Numm vun enger Persoun froen.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter1.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Moein an Äddi soen. Soen a froen, wéi et geet. Sech virstellen an nom Numm vun enger Persoun froen.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter1.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kapitel 1</title><link href="http://0.0.0.0:4000/A2/kapitel-1" rel="alternate" type="text/html" title="Kapitel 1" /><published>2022-09-20T20:00:00+02:00</published><updated>2022-09-20T20:00:00+02:00</updated><id>http://0.0.0.0:4000/A2/kapitel-1</id><content type="html" xml:base="http://0.0.0.0:4000/A2/kapitel-1"><![CDATA[<div class="row g-4 mt-2 mb-1" data-masonry='{"percentPosition": true }'>
+	<div class="col-md-6">
+	<div class="card bg-c2 text-main">
+		<h5 class="card-header">D'Direktioun </h5>
+		<ul class="list-group list-group-flush">
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3 col-sm-4 col-md-3"><i class="bi bi-arrow-90deg-left fs-4"></i></div>
+				<div class="col">no lénks</div>
+			</li>
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3 col-sm-4 col-md-3"><i class="bi bi-arrow-90deg-right fs-4"></i></div>
+				<div class="col">no riets</div>
+			</li>	
+			<li class="list-group-item d-flex align-items-center">
+				<div class="col-3 col-sm-4 col-md-3"><i class="bi bi-arrow-up fs-4"></i></div>
+				<div class="col">riichtaus</div>
+			</li>
+		</ul>
+	</div>
+</div>
+</div>]]></content><author><name></name></author><category term="chapitre" /><summary type="html"><![CDATA[Informatiounen zu Zuch- a Bushorairë froen a ginn. Nom Wee froen an eng einfach Weebeschreiwung verstoen.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/chapter1.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/chapter1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

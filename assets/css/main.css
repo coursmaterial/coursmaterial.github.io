@@ -203,6 +203,7 @@ main {
   border-radius: 1rem !important;
 }
 .card-title {
+  display: inline-block;
   font-weight: 625;
   font-size: 1.25rem;
 }
